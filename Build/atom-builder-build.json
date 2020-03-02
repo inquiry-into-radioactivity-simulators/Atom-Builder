@@ -1,0 +1,13 @@
+{
+"companyName": "https://sequentialread.com",
+"productName": "Inquiry into Radioactivity - Atom Builder",
+"dataUrl": "atom-builder-build.data.unityweb",
+"asmCodeUrl": "atom-builder-build.asm.code.unityweb",
+"asmMemoryUrl": "atom-builder-build.asm.memory.unityweb",
+"asmFrameworkUrl": "atom-builder-build.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
