@@ -2,6 +2,8 @@
 
 ### [Try it out now in your web browser!!](https://inquiry-into-radioactivity-simulators.github.io/Atom-Builder/)
 
+### Screenshot:
+
 ![](ReadMe/Screenshot1.png)
 
 ## Use in Curriculum
