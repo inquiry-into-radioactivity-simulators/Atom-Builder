@@ -14,6 +14,16 @@ The Atom Builder simulator allows students to build any atom up to element 105 (
 
 Ionization is deliberately separated from radioactivity until students are clear on what an ion is and isn't. With the secret access code students can then test unstable atoms. **(Secret code: click 10 times on the gnome's face!)**
 
+
+#### Controls - Builder
+
+ - Drag and Drop or click New Atom
+
+#### Controls - Test World
+
+ - WASD or Arrow Keys - Move your atom
+ - Click on the clock icon to display the timescale
+
 ## Information for Developers
 
 This is a Unity3D project. To open it, you will need:
